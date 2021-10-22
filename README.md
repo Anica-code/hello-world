@@ -1,5 +1,5 @@
 # hello-world
-Things I'm interesed in:
+Things I'm interested in:
 
 Robotics,
 Machines overall,
